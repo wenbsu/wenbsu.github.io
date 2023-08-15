@@ -1,7 +1,6 @@
 Peppa and George are playing hide and seek.  
 It is George's turn to hide.  
-He must quickly find somewhere to hide before Peppa  
-finishes counting!  
+He must quickly find somewhere to hide before Peppa finishes counting!  
 One... two... three...four... five... six... seven...  
 George has found somewhere to hide,  
 eight... just in time!  
@@ -12,10 +11,9 @@ Found you!
 Peppa has found George.  
 George, I could see you too easily.  
 Now it is Peppa's turn to hide.  
-One... erm... three.  
-I'II help George to count.  
-One... two... three...four... five...six... seven... eight...nine...  
-ten!  
+One... three... three.  
+I'll help George to count.  
+One... two... three...four... five...six... seven... eight...nine...ten!  
 Okay, George, open your eyes!  
 George has to find Where Peppa is hiding.  
 Oh.  
@@ -27,8 +25,7 @@ Peppa isn't behind the curtain.
 There is that strange noise again!  
 What can it be?  
 Whee !  
-George has found where  
-Peppa was hiding.  
+George has found where Peppa was hiding.  
 George found me!  
 Now it's Daddy's turn to hide!  
 Oh, I think George should have another turn.  
@@ -50,13 +47,10 @@ Where can he be?
 Peppa can not find George anywhere.  
 Daddy? I can't find George anywhere.  
 Oh, dear, I wonder where he can be.  
-Actually, I think there's something about George in this  
-newspaper...  
-Whee...  
+Actually, I think there's something about George in this newspaper...  
 George! Found you!  
 Oh, George!  
 That was a good place to hide!  
-George was hiding behind  
-Daddy Pig's newspaper all the time!  
+George was hiding behind Daddy Pig's newspaper all the time!  
 I'm Peppa Pig.  
 This is my little brother, George.  

@@ -1,12 +1,11 @@
 Peppa is waiting for her best friend, Suzy Sheep.  
-HeIIo, Suzy!  
-Baaaa! HeIIo, Peppa.  
+Hello, Suzy!  
+Baaaa! Hello, Peppa.  
 Suzy Sheep has come to play with Peppa.  
 Peppa loves Suzy.  
 Suzy loves Peppa.  
 They are best friends.  
-Peppa, why don't you and Suzy go and play in your  
-bedroom?  
+Peppa, why don't you and Suzy go and play in your bedroom?  
 Yes, Mummy!  
 George wants to play, too.  
 Peppa and Suzy love playing in Peppa's bedroom.  
@@ -16,8 +15,7 @@ This game is just for big girls.
 Go and play with your own toys.  
 Peppa and Suzy want to play on their own.  
 I'm a tiny little fairy princess!  
-I'm going to wave my magic Wand... and turn you into a  
-frog!  
+I'm going to wave my magic Wand... and turn you into a frog!  
 George doesn't like playing on his own.  
 George wants to play, too.  
 No, George!  
@@ -30,7 +28,7 @@ I'm making chocolate chip cookies!!
 Someone needs to lick out the bowl.  
 George likes helping Mummy make cookies.  
 But he likes playing with Peppa more.  
-Baaaa! I want to be a nurse!  
+I want to be a nurse!  
 I want to be a doctor.  
 But who's gonna be the sick person?  
 GEORGE!!!  
@@ -38,8 +36,8 @@ Peppa and Suzy love playing doctors and nurses.
 So does George.  
 Peppa listens to George's chest.  
 Now, George, take a big breath in... then cough.  
-Mm, I think your heart's a bitloose...  
-...I'II put a plaster on it.  
+Mm, I think your heart's a bit loose...  
+I'll put a plaster on it.  
 Baa! Open wide, please.  
 Suzy takes George's temperature.  
 Oh, dear, you're very, very hot.  
@@ -67,4 +65,4 @@ And me!
 And me!  
 And me! Baa  
 I'm Peppa Pig.  
-This is my IittIe brother, George.  
+This is my littIe brother, George.  

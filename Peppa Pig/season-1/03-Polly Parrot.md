@@ -1,12 +1,11 @@
-Peppa and her family are visiting Granny Pig and Grandpa  
-Pig.  
-Granny Pig! Grandpa Pig! Ganggy Ig! Baba Ig!  
+Peppa and her family are visiting Granny Pig and Grandpa Pig.  
+Granny Pig! Grandpa Pig! Granny Pig! Grandpa Pig!  
 Hello, my little ones. Come inside,  
 We have a surprise.  
 What is it?  
 We have a new pet.  
 Can you guess What it is?  
-Dine-saw?  
+Dinosaur?  
 No, it's not a dinosaur. Come and see.  
 Granny Pig and Grandpa Pig have a pet parrot.  
 Peppa, George, this is our pet parrot.  
@@ -35,12 +34,10 @@ Hurray!
 George, say something to Polly.  
 George is a little bit shy.  
 Hello. Hello.  
-Peppa and George are really enjoying playing with Polly  
-Parrot.  
+Peppa and George are really enjoying playing with Polly Parrot.  
 I'm Peppa Pig!  
 I'm Peppa Pig!  
-George, say something. Peppa and George are pretending  
-to be parrots.  
+George, say something. Peppa and George are pretending to be parrots.  
 I'm Polly Parrot,  
 Peppa is thinking of something else to say to Polly Parrot.  
 I'm a noisy parrot! I'm a noisy parrot!  
