@@ -1,0 +1,98 @@
+Peppa and her famiIy are going camping.  
+I Iove camping.  
+We're here.  
+Hurray!  
+Peppa, George, this is the tent I had When I Was a IittLe  
+boy!  
+Daddy? HoW are you going to make that into a tent?  
+Don't Worry, Peppa!  
+I'm an expert at camping!  
+Mummy Pig, put the tent on the poles, please.  
+That's it!  
+Easy as pie!  
+Oh!  
+Do these pegs do anything?  
+Of course!  
+I forgot about the pegs!  
+The pegs hold the tent up.  
+There!  
+The tent is a bit Iittle.  
+It was big enough for me  
+When I was a boy.  
+But it does look a bit small now..  
+That's because you've grown a bit since you were a boy,  
+Daddy Pig!  
+And your tummy has grown the most of all!  
+TaIking of tummies,  
+We shouId cook supper!  
+Yes! Yes!  
+First, We have to collect sticks to make a fire.  
+Yipee!  
+Peppa and George are helping Daddy Pig collect sticks for  
+the campfire.  
+George, I'll pick up the sticks and you can carry them.  
+Collecting sticks is fun!  
+Good. That's enough sticks.  
+That's a splendid campfire!  
+Now I'll Iight it.  
+Here are the matches.  
+We don't need matches!  
+Daddy, how can you Iight it without matches?  
+I'm going to make fire the old way, by simply rubbing these  
+two sticks together!  
+Daddy Pig is rubbing the two sticks together to light the  
+campfire.  
+Where is the fire, Daddy?  
+NearIy there...  
+Hurray!  
+Easy as pie!  
+Now we can heat up the tomato soup.  
+Ahhh! Listen to the sounds of nature  
+What is that sound?  
+That is the sound of crickets chirping.  
+What is that?  
+That's an owl.  
+Look! There it is!  
+WoW...  
+And What's that noise?  
+Oh, I'm not sure.  
+It's Daddy's tummy!  
+My tummy rumbling is one of the best sounds of nature!  
+It means it's time to eat!  
+I Iove tomato soup!  
+So do I!  
+There's another one of Daddy Pig's sounds of nature!  
+Eh? What?  
+Come on, children, into the tent, it's bedtime.  
+We won't allfit in!  
+The tent is too Iittle!  
+It will be fine!  
+In you go!  
+Move further in, Mummy Pig!  
+Daddy, you're too big for the tent!  
+Never mind, I'd rather sleep outside anyway.  
+Goodnight, Daddy Pig!  
+Goodnight, Daddy!  
+Night! Night!  
+Goodnight, everyone!  
+Mummy Pig, Peppa and George are sleeping in the tent.  
+Daddy Pig is sleeping outside, under the stars.  
+Ahh! I Iove camping!  
+SIeeping in the open air with the stars above me!  
+Maybe this Wasn't such a good idea after all...brrrrrr  
+It is morning.  
+Daddy! It was lovely and cozy in the tent!  
+Oh... Where's Daddy?  
+Daddy Pig has gone!  
+Poor Daddy Pig. He must have been cold and wet.  
+And now where is he?  
+What's that sound?  
+It sounds like snoring!  
+Daddy Pig!  
+What?  
+Daddy, you're safe!  
+Of course I'm safe!  
+I'm an expert at camping!  
+I slept in the car.  
+Silly Daddy!  
+I Iove camping!  

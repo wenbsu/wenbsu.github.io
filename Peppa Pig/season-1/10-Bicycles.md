@@ -1,0 +1,84 @@
+It is a loveIy, sunny day, and Peppa and George are riding  
+their bicycles.  
+That's a fine pumpkin, Daddy Pig!  
+Daddy Pig is very proud of his pumpkin.  
+Pumpkins are the onIy thing I can grow.  
+ProbabIy because I Iove pumpkin pie!  
+Come on, George.  
+Danny, Suzy, Rebecca!  
+Peppa and her friends, Danny Dog, Suzy Sheep and  
+Rebecca Rabbit,are riding their bicycles.  
+George is riding his tricycIe.  
+He's going so sIowly.  
+Let's race to Daddy Pig's pumpkin.  
+If We race to Daddy's Pumpkin,  
+We have to be very careful not to bump into it.  
+Daddy Would be very sad if the pumpkin got broken.  
+Don't Worry, Peppa..  
+Race you!  
+Peppa and her friends are racing to Daddy Pig's pumpkin!  
+Hey! Watch out for my pumpkin!!  
+Hurray!  
+Peppa! Look out!  
+Daddy's Pumpkin!!!!  
+Sorry, Daddy!  
+Look at George!  
+He's going so slowIy!  
+George is still riding a baby bike!  
+Yours is a baby bike, too, Peppa!  
+You've still got stabilizers!  
+I can ride without my stabilizers.  
+Me, too.  
+And me.  
+Let's ride up the hill again!  
+Are you coming, Peppa?  
+No, I think I'll stay here.  
+See you later!  
+Bye!  
+Peppa wishes she did not have stabilizers on her bicycle.  
+Daddy, I don't want stabilizers anymore.  
+Do you think you can ride without them? Yes.  
+AIright, Peppa. Let's take them off.  
+Daddy Pig is taking the stabilizers off Peppa's bicycle.  
+Are you sure you want to ride without stabilizers?  
+Yes!  
+You've never done it before.  
+I can do it. I can! I can! Arrgh!  
+It's not funny!  
+Riding without stabilizers is not easy.  
+WouId you like some help, Peppa?  
+Yes, pIease, Daddy.  
+Alright. Ready... Steady... GO!  
+Don't Iet go, Daddy!  
+Don't worry. I've got you.  
+You're doing really well, Peppa.  
+HoId on, Daddy!  
+Just keep peddling.  
+Peppa is riding on her own,  
+Without stabilizers!  
+Daddy! You let go!  
+You've been cycling on your own for ages. Have I?  
+You're really very good at it! Am I?  
+Oh, I can do it! Look at me!  
+Look at me! I can ride my bike properly.  
+Danny! Suzy! Rebecca! Look!  
+I don't need my stabilizers anymore! Look at me! Hurray!  
+Race you to Daddy's pumpkin! Wheeeee!  
+Peppa, look out my pumpkin!  
+I'm going to win!  
+Peppa isn't looking  
+Where she is going!  
+Wahhhh! Oops!  
+Oh, dear, Peppa has squashed  
+Daddy Pig's pumpkin!  
+Sorry I squashed your pumpkin, Daddy.  
+Never mind the pumpkin.  
+The important thing is that you are okay.  
+In future, you really must look where you are going.  
+I promise I will, Daddy.  
+Good. Anyway, now the pumpkin is broken,  
+I can make it into pumpkin pie!  
+I Iove pumpkin pie!  
+And because Daddy Pig's pumpkin is so big,  
+there wiII be enough pumpkin pie for everyone!  
+Hurray!  
