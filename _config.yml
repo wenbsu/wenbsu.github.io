@@ -1,27 +1,27 @@
 # Site settings
-title: Carlos Blog
-SEOTitle: Carlos的博客 | Carlos Blog
-header-img: img/home-bg.jpg
-email: carlos.w.0713@oulook.com
-description: "Every failure is leading towards success."
-keyword: "carlos, carlos Blog, carlos的博客, carlos, github, gitee, csdn, 测试"
-url: "http://carlosw0713.github.io"          # your host, for absolute URL
+title: Wenbsu Blog
+SEOTitle: 文水水的博客 | Wenbsu Blog
+header-img: img/home-bg-o.jpg
+email: wenbsu@gmail.com
+description: "The future belongs to those who believe in the beauty of their dreams."
+keyword: "wenbsu, Wenbsu Blog, 文水水的博客, github, gitee, Wenbsu"
+url: "http://wenbsu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/carlosw0713/carlosw0713.github.io.git" # you code repository
+github_repo: "https://github.com/wenbsu/wenbsu.github.io.git" # you code repository
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-# weibo_username: carlos111
-# zhihu_username: carlos1
-github_username: carlosw0713
-gitee_username: carlosw0713
-csdn_username: alnawang
-# twitter_username: carlos1
-#facebook_username:  carlos1
-#linkedin_username:  carlos1
+# weibo_username: wenbsu
+# zhihu_username: wenbsu
+github_username: wenbsu
+gitee_username: wenbsu
+csdn_username: wenbsu
+twitter_username: YoxuVin
+#facebook_username:  wenbsu
+#linkedin_username:  wenbsu
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -62,8 +62,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-# disqus_username: hux
-disqus_username: Carlos11
+disqus_username: wenbsu
 
 # Netease settings
 netease_comment: false
@@ -79,9 +78,8 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "乐观的悲观主义者 <br> Email:Carlos.w.0713@outlook.com  <br> Wechat:hqq51921"
-# sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: /img/about-Carlos1.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "The Pursuit of Happiness <br> Email:wenbsu@gmail.com  <br> Wechat:wenbxu"
+sidebar-avatar: /img/wenbsu.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -99,27 +97,12 @@ page-mathjax: false
 jekyll: true
 
 # Friends
-# friends:
-#   [
-#     { title: "乱序（Midare）", href: "http://mida.re/" },
-#     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-#     { title: "Kun Qian", href: "http://kunq.me" },
-#     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-#     { title: "SmdCn", href: "http://blog.smdcn.net" },
-#     { title: "JiyinYiyong", href: "http://tiye.me/" },
-#     { title: "DHong Say", href: "http://dhong.co" },
-#     { title: "尹峰以为", href: "http://ingf.github.io/" },
-#   ]
-
 friends:
   [
-    { title: "Carlos", href: "https://github.com/carlosw0713" },
-    { title: "Gtihub", href: "https://github.com/carlosw0713" },
-    { title: "Gitee", href: "https://gitee.com/carlos_w_0713" },
-    { title: "CSDN", href: "https://blog.csdn.net/alnawang" },
-    { title: "篮球", href: "https://baike.baidu.com/item/%E7%A7%91%E6%AF%94%C2%B7%E5%B8%83%E8%8E%B1%E6%81%A9%E7%89%B9/318773" },
-    { title: "漫画&动漫", href: "https://zhuanlan.zhihu.com/p/584071572" },
-    { title: "ChatGTP", href: "https://c.binjie.fun/" },
+    { title: "github", href: "https://github.com/wenbsu" },
+    { title: "gitee", href: "https://gitee.com/wenbsu" },
+    { title: "csdn", href: "https://blog.csdn.net/wenbsu" },
+    { title: "blog", href: "http://wenbsu.github.io" }
   ]
 
 gems:
