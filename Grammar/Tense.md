@@ -1,11 +1,20 @@
 ## 过去时态：  
 ### 一般过去时（Simple Past Tense）:  
 **形成：** 动词过去式（-ed）。  
-**用法：** 描述过去某个确定的时间发生的动作或状态。  
+**用法：** 描述过去某个确定的时间发生的动作或状态。一般过去时通常使用动词的过去式来表示过去发生的动作或状态。例如，对于大多数动词，过去时的形式是在动词原形的基础上加上 "-ed"，如"talked"、"played"等。但是，当我们使用一般过去时构建否定句或疑问句时，我们需要使用助动词 "did"，其后跟上动词的原形，而不是过去式。使用 "did" 的这种结构是一种语法规则，帮助构建更清晰、一致的句子结构，同时确保一致地表示否定和疑问。  
 **例句：**   
-1. She visited Paris last summer.（她去年夏天访问了巴黎。）  
-2. They finished the project on time.（他们按时完成了项目。）  
-3. We lived in that house for five years.（我们在那栋房子里住了五年。）  
+- 一般过去时肯定句：  
+1.He visited the museum last week.（他上周参观了博物馆。）  
+2.The children played in the park yesterday.（孩子们昨天在公园里玩。）  
+3.We watched a movie at home on Friday.（我们星期五在家看了一部电影。）    
+- 一般过去时否定句：  
+1.She did not eat pizza for dinner.（她晚餐没吃披萨。）  
+2.They didn't go to the party last night.（他们昨晚没去参加派对。）  
+3.I did not finish my homework before bed.（我上床睡觉前没完成作业。）  
+- 一般过去时疑问句：  
+1.Did you visit the museum last week?（你上周参观了博物馆吗？）  
+2.Where did they go on vacation?（他们度假去哪里了？）  
+3.Did she enjoy the concert?（她喜欢那场音乐会吗？）  
 
 ### 过去进行时（Past Continuous Tense）:  
 **形成：** was/were + 动词的现在分词形式（-ing）。    
