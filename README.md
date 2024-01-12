@@ -17,6 +17,7 @@
 ### 1. 本地安装 Jekyll
 
 -  安装 Ruby和Devkit [Downloads](https://rubyinstaller.org/downloads/)
+-  RubyGems 镜像源切换：`gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/`
 -  Jekyll cmd命令：`gem install jekyll bundler`
 
 ### 2. 克隆到本地
@@ -28,6 +29,7 @@
 - 在安装好jekyll的前提下，cmd命令切换到仓库文件目录下，执行以下命令来启动 Jekyll 服务器：
 
 ```
+bundle install
 bundle exec jekyll serve
 gem update jekyll # 更新jekyll
 gem update github-pages #更新依赖的包
