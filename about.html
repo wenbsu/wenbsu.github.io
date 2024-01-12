@@ -1,0 +1,80 @@
+---
+layout: page
+title: "About"
+description: "Hey this is Carlos"
+header-img: "img/bg-me-2023.jpg"
+header-mask: 0.3
+multilingual: true
+---
+
+<!-- 切换中英文的html方法 传统注释没用 用{raw注释} -->
+{% raw %}
+<!-- {% include multilingual-sel.html %} -->
+{% endraw %}
+
+
+<!-- Chinese Version 调用md文件 -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
+
+<!-- Chinese Version 使用原生html代码 -->
+<!-- <div class="zh post-container"> -->
+
+    <!--copied from markdown -->
+    <!-- <p>Hey，我是王浩铭(Carlos)，一只正在努力成长的菜鸟程序猿。<br>
+        目前热爱生活、努力奋斗在上海这个充满活力的城市。</p>
+        
+        <p>工作和学习之余，我还是一名健身运动爱好者。对各类球类运动情有独钟，如篮球、足球和羽毛球等。通过参与这些运动，我既能保持身体健康，又能结交新朋友，体验团队合作的乐趣。</p>
+        
+        <p>为了记录这些精彩的时刻，我决定开始写博客。在我的博客中，我将分享我的编程经验、学习心得以及健身的乐趣。同时，我也希望通过博客与其他热爱编程和健身的朋友们互动和交流，共同成长。</p>
+        
+        <p>一起加油努力吧！！！</p>
+
+    <br>
+    <br>
+    <br>
+    <br>
+        <h5>致谢</h5>
+        <ul>
+            <li><a href="https://github.com/huxpro">Hux</a></li> 
+            <li><a href="https://github.com">GitHub</a></li>
+            <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+            <li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
+        </ul>
+    </div> -->
+
+
+<!-- English Version -->
+<!-- <div class="en post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div> -->
+
+
+
+{% if site.disqus_username %}
+<!-- disqus 评论框 start -->
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+
+    </div>
+</div>
+<!-- disqus 评论框 end -->
+
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus_username}}";
+    var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
+
+    (function () {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
