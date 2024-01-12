@@ -1,4 +1,4 @@
-![](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690790198839-3d270bb1-2e92-437d-a435-909b42635b12.png)
+![](https://foruda.gitee.com/images/1705067438489538345/222a907d_1002526.jpeg)
 
 ![](https://img.shields.io/badge/HTML-red)  ![](https://img.shields.io/badge/jekyll-green)  ![](https://img.shields.io/badge/Ruby-3.2.21-block)
 
@@ -8,7 +8,7 @@
 
 博客的模板是从 [Hux](https://github.com/Huxpro/huxpro.github.io) fork的。非常感谢这个这个作者。
 
-详细教程参考 《[使用 GitHub Pages + Jekyll 快速搭建个人博客网站](https://carlosw0713.github.io/2023/07/15/%E4%BD%BF%E7%94%A8-GitHub-Pages-+-Jekyll-%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/)》
+详细教程参考 《[使用 GitHub Pages + Jekyll 搭建个人博客](https://wenbsu.github.io/2024/01/12/%E4%BD%BF%E7%94%A8-GitHub-Pages-+-Jekyll-%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/)》
 
 ### [点击查看博客详情 👆](https://wenbsu.github.io/)
 
@@ -39,5 +39,6 @@ gem update github-pages #更新依赖的包
 
 ## 致谢
 
-1. 博客模板是 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 非常感谢这个作者。
-2. 感谢 Jekyll、Github Pages 和 Bootstrap。
+1. 更多博客模板 [点击这](http://jekyllthemes.org/)。
+2. 博客模板是 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 非常感谢这个作者。
+3. 感谢 Jekyll、Github Pages 和 Bootstrap。
