@@ -19,7 +19,7 @@ RSS: false
 github_username: wenbsu
 gitee_username: wenbsu
 csdn_username: wenbsu
-twitter_username: YoxuVin
+twitter_username: wenbsu
 #facebook_username:  wenbsu
 #linkedin_username:  wenbsu
 
@@ -104,6 +104,3 @@ friends:
     { title: "csdn", href: "https://blog.csdn.net/wenbsu" },
     { title: "blog", href: "http://wenbsu.github.io" }
   ]
-
-gems:
-- jekyll-mermaid

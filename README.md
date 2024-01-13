@@ -1,4 +1,4 @@
-![](https://foruda.gitee.com/images/1705067438489538345/222a907d_1002526.jpeg)
+![](https://foruda.gitee.com/images/1705141186533744944/2fa150a8_1002526.jpeg)
 
 ![](https://img.shields.io/badge/HTML-red)  ![](https://img.shields.io/badge/jekyll-green)  ![](https://img.shields.io/badge/Ruby-3.2.21-block)
 

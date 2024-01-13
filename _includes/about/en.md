@@ -1,21 +1,18 @@
 
-Hey everyone, I'm YoxuVin, a fledgling programmer on a journey of continuous growth.
+Hey everyone! I'm wenbsu, Welcome to my personal website. I am a coder with a passion for both coding and running marathons. Here, I will share my technical insights, running experiences, and reflections on my career path.
 
-Currently, I am enthusiastically diving into the world of programming, exploring the mysteries of code. Based in Changsha, a vibrant city, I am striving to balance work and studies while cherishing the joys of life.
+**About Me**  
+I am a programmer deeply rooted in the world of code, fueled by a passion for technology and a relentless curiosity. With several years in the IT industry, I have witnessed the rapid evolution of technology, constantly learning and adapting. However, facing age bias in the industry has led to feelings of anxiety and uncertainty about my future career path.
 
-Beyond coding, I am a fitness enthusiast, particularly passionate about marathon running. Amidst the hustle and bustle of work and academics, fitness has become my way of releasing stress and maintaining vitality.
+**Hobbies and Persistence**  
+Beyond coding, I have another exhilarating passion—running. As a fervent marathon participant, each step on the racecourse brings not just a challenge but a breakthrough of personal limits. Marathons have taught me perseverance, resilience, and a spirit of self-transcendence—qualities equally vital in coding and professional life.
 
-To capture these exciting moments, I've decided to create my own blog. In this blog, you'll find my experiences in coding, insights gained from learning, and the pleasures of fitness activities. I also look forward to interacting and exchanging ideas with fellow enthusiasts in both programming and fitness through this platform, as we grow together.
+**Career Anxiety and the Unknown Path Ahead**  
+Despite my love for coding, age bias in the IT industry has become a significant obstacle. Recognizing this as a widespread issue, I've decided to share my experiences and reflections on this platform, hoping to connect with like-minded individuals. Whether you are a newcomer or an industry veteran, we all face similar challenges. Let's confront them together and explore the unknown path ahead.
 
-Let's fuel each other's efforts, collaborate, and create a more spectacular life together! 🚀
+**English Learning and Expanding Horizons**  
+To better adapt to industry changes, I've recently embarked on learning English. As a universally recognized language, English is crucial for collaborating with developers worldwide and staying updated on the latest tech trends. I believe that by mastering English, I'll broaden my exposure to advanced technologies and ideas, unlocking more possibilities for my professional development.
 
-
-
-
-
-**Thanks:**
-
-- [Hux](https://github.com/huxpro)
-- [GitHub](https://github.com/)
-- [jekyll](http://jekyll.com.cn/)
-- [Google Analytics](https://analytics.google.com/analytics)
+**Mission of the Blog**  
+Through this blog, I aim to document my technical growth, marathon journeys, and career exploration. Simultaneously, I want to connect with more friends, sharing experiences and insights. Whether you are a tech enthusiast, a running aficionado, or someone navigating career uncertainties, this is a place to resonate and find support.
+In this era of constant change, let's run together, challenge ourselves, and explore the marathon life behind the code. I hope my experiences and shares inspire you, and I look forward to hearing your stories and perspectives. Thank you for your attention, and let's embrace the unknown future together!
