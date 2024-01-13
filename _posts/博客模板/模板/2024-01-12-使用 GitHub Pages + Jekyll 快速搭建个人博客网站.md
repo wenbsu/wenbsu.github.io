@@ -42,7 +42,7 @@ tags:
 - 点击仓库 setting  再点击 Pages 当出现如下画面，可以点击 Visit site 查看或者直接浏览器输入`你的Github账号名.github.io`
   ![](https://foruda.gitee.com/images/1705067438489538345/222a907d_1002526.jpeg)
 - 如果网页打开如下恭喜你完成了一半了！如果没用不是该页面请重新检查操作问题。
-  ![](https://foruda.gitee.com/images/1705069329248766848/a1ab0df8_1002526.jpeg)
+  ![](https://foruda.gitee.com/images/1705154577546508142/7a19adef_1002526.jpeg)
 
 Ps：
 
