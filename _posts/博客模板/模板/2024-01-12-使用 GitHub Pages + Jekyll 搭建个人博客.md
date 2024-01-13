@@ -180,19 +180,6 @@ Ps：
 {% endraw %}
 ```
 
-#### _post-md文件 批量初始化或更新操作
-看完上述md文件所需要的模板格式设置， 内容好像有点多又比较麻烦，对于没用写过博客和已经写过博客的同学需要花费时间去重新创建和修改，这边提供了一种思路，就是用代码对文件实现批量操作。
-**文件路径格式：**//大类/小类/文件名 例如// Python/Python高级操作/Python日志操作
-**代码思路：**
-
-- 使用python的文件操作依次遍历获取_post下的md文件。
-- tags取值为根目录名称，subtitle取值为子目录名称，title取文件名，date取当天或指定时间。
-- 将内容插入文件的首行，并且再对文件名赋值为 date-文件名。
-- 如果需要修改同样可以指定路径下文件，对某内容进行替换操作。
-
-代码已经写好，可以参考一下 [《Python批量修改文件内容操作》](https://wenbsu.github.io//2023/07/31/Python批量修改文件内容操作/)。
-![](https://raw.githubusercontent.com/wenbsu/wenbsu.github.io/master/img/Art_img/blog/about_blog_init.png#id=mKw71&originHeight=266&originWidth=675&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
-
 ### 本地运行
 
 1. 克隆 Repository
