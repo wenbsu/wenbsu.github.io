@@ -2,6 +2,8 @@
     @param {Boolean} center 
 {% endcomment %}
 
+<!-- Bollean icon 控制 -->
+
 {% if include.center %}
 <ul class="list-inline text-center">
 {% else %}
@@ -77,5 +79,31 @@
       </span>
     </a>
   </li>
+
+  <!-- 添加csdn和gitee 来源Font Awesome 图标库 -->
   {% endif %}
+  {% if site.gitee_username %}
+  <li>
+    <a target="_blank" href="https://gitee.com/{{ site.gitee_username }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x "></i>
+        <i class="fa fa-gitee fa-stack-1x fa-inverse">G</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+  {% if site.csdn_username %}
+  <li>
+    <a target="_blank" href="https://blog.csdn.net/{{ site.csdn_username }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square  fa-stack-2x "></i>
+        <i class="fa fa-csdn fa-stack-1x fa-inverse">C</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+
+
 </ul>
