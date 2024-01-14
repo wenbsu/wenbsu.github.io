@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/wenbsu/wenbsu.github.io/main/img/md/check_my_home_page.jpg)
 
-![](https://img.shields.io/badge/HTML-red)  ![](https://img.shields.io/badge/jekyll-green)  ![](https://img.shields.io/badge/Ruby-3.2.21-block)
+![](https://img.shields.io/badge/HTML-red)  ![](https://img.shields.io/badge/jekyll-green)  ![](https://img.shields.io/badge/Ruby-3.3.0-block)
 
 ![](https://img.shields.io/github/issues/carlosw0713/carlosw0713.github.io.svg?style=flat)  ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)  ![](https://img.shields.io/github/stars/carlosw0713/carlosw0713.github.io.svg?style=social&label=Star)  ![](https://img.shields.io/github/forks/carlosw0713/carlosw0713.github.io.svg?style=social&label=Fork)
 
@@ -37,8 +37,8 @@ gem update github-pages #更新依赖的包
 
 - 在浏览器中访问 [http://localhost:4000](http://localhost:4000/) 就可以看到你的 Jekyll 网站了，你对本地博客的修改都会在这个地址进行显示，修改配置后网址要`强制刷新`才会展示
 
-## 致谢
+## 更多
 
 1. 更多博客模板 [点击这](http://jekyllthemes.org/)。
-2. 博客模板是 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 非常感谢这个作者。
-3. 感谢 Jekyll、Github Pages 和 Bootstrap。
+2. Github Pages文档 [点击这](https://docs.github.com/zh/pages)。
+3. Jekyll文档 [点击这](https://www.jekyll.com.cn/docs/)。

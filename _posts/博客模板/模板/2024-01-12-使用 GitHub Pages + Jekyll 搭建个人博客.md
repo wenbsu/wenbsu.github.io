@@ -2,7 +2,7 @@
 ifupdate: false
 layout: post
 title: 使用 GitHub Pages + Jekyll 搭建个人博客
-subtitle: 模板
+subtitle: 手把手教你撸个人博客
 date: 2024-01-12
 author: wenbsu
 header-img: img/head-photo/post-bg-rwd.jpg
@@ -90,7 +90,7 @@ Ps：
 # Site settings
 title: Wenbsu Blog  #home 页面 博客标题
 SEOTitle: 文水水的博客 | Wenbsu Blog #浏览器显示标签&名称
-header-img: img/home-bg.jpg # home 页面 名称
+header-img: img/head-photo/home-bg-o.jpg # home 页面 名称
 email: wenbsu@gmail.com  #邮箱
 description: "The future belongs to those who believe in the beauty of their dreams."
 keyword: "wenbsu, Wenbsu Blog, 文水水的博客, github, gitee, Wenbsu"
@@ -204,9 +204,9 @@ gem update github-pages #更新依赖的包
 - 在浏览器中访问 [http://localhost:4000](http://localhost:4000/) 就可以看到你的 Jekyll 网站了，你对本地博客的修改都会在这个地址进行显示，修改配置后网址要`强制刷新`才会展示。
 
 
-## 致谢
+## 更多
 
-1. 更多博客模板 [点击这](http://jekyllthemes.org/)。
-2. 博客模板是 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 非常感谢这个作者。
-3. 感谢 Jekyll、Github Pages 和 Bootstrap。
-
+1. Jekyll文档 [点击这](https://www.jekyll.com.cn/docs/)。
+2. 更多博客模板 [点击这](http://jekyllthemes.org/)。
+3. Github Pages文档 [点击这](https://docs.github.com/zh/pages)。
+4. 博客模板是 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 非常感谢这个作者。
