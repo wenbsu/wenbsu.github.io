@@ -5,7 +5,7 @@ title: 使用 GitHub Pages + Jekyll 搭建个人博客
 subtitle: 手把手教你撸个人博客
 date: 2024-01-12
 author: wenbsu
-header-img: img/head-photo/post-bg-rwd.jpg
+header-img: https://foruda.gitee.com/images/1705216417352766384/b12b68ae_1002526.jpeg
 catalog: true
 tags:
  - 博客模板
