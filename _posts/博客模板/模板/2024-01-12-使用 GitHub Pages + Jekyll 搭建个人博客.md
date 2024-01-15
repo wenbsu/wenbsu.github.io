@@ -25,9 +25,8 @@ tags:
 - 根据操作系统下载并安装 Git：[https://git-scm.com/download](https://git-scm.com/downloads)
 3. 本地安装 Jekyll
 - 安装 Ruby和Devkit [https://rubyinstaller.org/downloads/](https://rubyinstaller.org/downloads/) 
-- 安装 Jekyll  cmd命令：`gem install jekyll bundler`
 - RubyGems 镜像源切换：`gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/`
-- Jekyll cmd命令：`gem install jekyll bundler`
+- 安装 Jekyll  cmd命令：`gem install jekyll bundler`
 
  
 ## 快速搭建
