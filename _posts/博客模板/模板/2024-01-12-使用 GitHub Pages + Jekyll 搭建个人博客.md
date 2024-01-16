@@ -5,7 +5,7 @@ title: 使用 GitHub Pages + Jekyll 搭建个人博客
 subtitle: 手把手教你撸个人博客
 date: 2024-01-12
 author: wenbsu
-header-img: https://foruda.gitee.com/images/1705216417352766384/b12b68ae_1002526.jpeg
+header-img: https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-0.jpeg
 catalog: true
 tags:
  - 博客模板
@@ -33,15 +33,15 @@ tags:
 
 1. 创建新的 Repository
 - 登录 GitHub，点击页面右上角的 "New" 按钮，创建一个新的 Repository，名称为你的 [用户名.github.io](https://wenbsu.github.io/) （注意：这里的用户名指的是你的 GitHub 用户名，wenbsu（账号名）/wenbsu.giithub.io（仓库名））；最终在浏览器中访问的地址就是你填写在Repository name 中的地址。
-  ![](https://foruda.gitee.com/images/1705066731078115158/22888c7d_1002526.jpeg)
+  ![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-1.jpeg)
 2. 获取我的仓库文件
 -  搜索栏搜索  **wenbsu.github.io** 进入[我的仓库](https://github.com/wenbsu/ )，点击右上角的 **Fork** 将我的仓库拉到你仓库下。
-  ![](https://foruda.gitee.com/images/1705067145028424752/90780434_1002526.jpeg)
+  ![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-2.jpeg)
 3. 运行查看
 - 点击仓库 setting  再点击 Pages 当出现如下画面，可以点击 Visit site 查看或者直接浏览器输入`你的Github账号名.github.io`
-  ![](https://foruda.gitee.com/images/1705067438489538345/222a907d_1002526.jpeg)
+  ![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-3.jpeg)
 - 如果网页打开如下恭喜你完成了一半了！如果没用不是该页面请重新检查操作问题。
-  ![](https://foruda.gitee.com/images/1705154577546508142/7a19adef_1002526.jpeg)
+  ![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-4.jpeg)
 
 Ps：
 
@@ -112,7 +112,7 @@ github_username: wenbsu
 
 如果需要添加或者修改可以到_includes/sns_links.html 进行添加修改
 不需要显示的话直接注释掉。效果图如下
-![](https://foruda.gitee.com/images/1705069361706022567/5afdfd18_1002526.jpeg)
+![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-5.jpeg)
 
 #### _config-侧边栏
 ```yaml
@@ -121,7 +121,7 @@ sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "The Pursuit of Happiness <br> Email:wenbsu@gmail.com  <br> Wechat:wenbxu"
 sidebar-avatar: /img/wenbsu.png # use absolute URL, seeing it's used in both `/` and `/about/`
 ```
-![](https://foruda.gitee.com/images/1705069838338166460/8c063543_1002526.jpeg)
+![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-6.jpeg)
 
 
 #### _config-好友
@@ -134,7 +134,7 @@ friends:
     { title: "blog", href: "http://wenbsu.github.io" }
   ]
 ```
-![](https://foruda.gitee.com/images/1705069914903977426/de4470ef_1002526.jpeg)
+![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-7.jpeg)
 
 #### img-图片配置
 
@@ -147,7 +147,7 @@ friends:
 
 #### _posts-md文件设置（划重点！！！）
 效果展示：
-![](https://foruda.gitee.com/images/1705070498657069888/bdbd0eb6_1002526.jpeg)
+![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-8.jpeg)
 
 _post可以说的上是整个博客最重要的部分了，应为文章都统一存放在这个页面。需要注意点如下：
 

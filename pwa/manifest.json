@@ -3,11 +3,11 @@
   "short_name": "Wenbsu Blog",
   "description": "About an engineer & designer who loves web.",
   "icons": [{
-    "src": "https://foruda.gitee.com/images/1705216483886167327/d816a63a_1002526.png",
+    "src": "https://wenbsu.obs.cn-south-1.myhuaweicloud.com/manifest/1.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "https://foruda.gitee.com/images/1705216510822501506/0ede2d06_1002526.png",
+    "src": "https://wenbsu.obs.cn-south-1.myhuaweicloud.com/manifest/2.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
