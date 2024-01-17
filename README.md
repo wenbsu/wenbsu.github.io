@@ -8,7 +8,7 @@
 
 博客的模板是从 [Hux](https://github.com/Huxpro/huxpro.github.io) fork的。非常感谢这个这个作者。
 
-详细教程参考 《[使用 GitHub Pages + Jekyll 搭建个人博客](https://wenbsu.github.io/2024/01/12/%E4%BD%BF%E7%94%A8-GitHub-Pages-+-Jekyll-%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/)》
+详细教程参考 《[使用 GitHub Pages + Jekyll 搭建个人博客](https://wenbsu.top/2024/01/12/%E4%BD%BF%E7%94%A8-GitHub-Pages-+-Jekyll-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)》
 
 ### [点击查看博客详情 👆](https://wenbsu.top/)
 
