@@ -2,11 +2,11 @@
 title: Wenbsu Blog
 SEOTitle: 文水水的博客 | Wenbsu Blog
 #header-img: img/head-photo/home-bg-o.jpg
-header-img: https://wenbsu.obs.cn-south-1.myhuaweicloud.com/head/1.jpeg
+header-img: https://foruda.gitee.com/images/1705471154764684118/cca72dab_1002526.jpeg
 email: wenbsu@gmail.com
 description: "The future belongs to those who believe in the beauty of their dreams."
 keyword: "wenbsu, Wenbsu Blog, 文水水的博客, github, gitee, Wenbsu"
-url: "http://wenbsu.github.io"          # your host, for absolute URL
+url: "http://wenbsu.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wenbsu/wenbsu.github.io.git" # you code repository
 
@@ -66,7 +66,7 @@ kramdown:
 #disqus_username: wenbsu
 
 # Netease settings
-netease_comment: false
+#netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
@@ -81,7 +81,7 @@ ga_domain: auto
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "The Pursuit of Happiness <br> Email:wenbsu@gmail.com  <br> Wechat:wenbxu"
 #sidebar-avatar: /img/my-photo/wenbsu.png # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: https://wenbsu.obs.cn-south-1.myhuaweicloud.com/avatar/1.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://foruda.gitee.com/images/1705471094024407378/c834b7be_1002526.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -104,5 +104,5 @@ friends:
     { title: "github", href: "https://github.com/wenbsu" },
     { title: "gitee", href: "https://gitee.com/wenbsu" },
     { title: "csdn", href: "https://blog.csdn.net/wenbsu" },
-    { title: "blog", href: "http://wenbsu.github.io" }
+    { title: "blog", href: "http://wenbsu.top" }
   ]

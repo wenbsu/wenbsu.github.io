@@ -5,13 +5,13 @@ title: 使用 GitHub Pages + Jekyll 搭建个人博客
 subtitle: 手把手教你撸个人博客
 date: 2024-01-12
 author: wenbsu
-header-img: https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-0.jpeg
+header-img: https://foruda.gitee.com/images/1705471447391412998/4fddf9a6_1002526.jpeg
 catalog: true
 tags:
  - 博客模板
 ---
 
-[我的博客在这里 →](https://wenbsu.github.io/)
+[我的博客在这里 →](https://wenbsu.top/)
 ## 前言
 现在市面上的博客很多，比如如CSDN，博客园，简书等平台，可以直接在上面发表，用户交互做的好，写的文章百度也能搜索的到。缺点是比较不自由，会受到平台的各种限制要求和烦人的广告。
 而自己购买域名和服务器，搭建博客的成本实在是太高了，作为一个上班族不光是这些购买成本，单单是花力气去自己搭这么一个网站，还要定期的维护它，对于我们大多数人来说，实在是没有这样的精力和时间。
@@ -33,15 +33,15 @@ tags:
 
 1. 创建新的 Repository
 - 登录 GitHub，点击页面右上角的 "New" 按钮，创建一个新的 Repository，名称为你的 [用户名.github.io](https://wenbsu.github.io/) （注意：这里的用户名指的是你的 GitHub 用户名，wenbsu（账号名）/wenbsu.giithub.io（仓库名））；最终在浏览器中访问的地址就是你填写在Repository name 中的地址。
-  ![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-1.jpeg)
+  ![/blog/20240112/0-1.jpeg](https://foruda.gitee.com/images/1705471497555951955/5c6081c4_1002526.jpeg)
 2. 获取我的仓库文件
 -  搜索栏搜索  **wenbsu.github.io** 进入[我的仓库](https://github.com/wenbsu/ )，点击右上角的 **Fork** 将我的仓库拉到你仓库下。
-  ![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-2.jpeg)
+  ![/blog/20240112/0-2.jpeg](https://foruda.gitee.com/images/1705471594642086545/6ea8c4cc_1002526.jpeg)
 3. 运行查看
 - 点击仓库 setting  再点击 Pages 当出现如下画面，可以点击 Visit site 查看或者直接浏览器输入`你的Github账号名.github.io`
-  ![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-3.jpeg)
+  ![/blog/20240112/0-3.jpeg](https://foruda.gitee.com/images/1705471629016250899/9aa1f1d7_1002526.jpeg)
 - 如果网页打开如下恭喜你完成了一半了！如果没用不是该页面请重新检查操作问题。
-  ![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-4.jpeg)
+  ![/blog/20240112/0-4.jpeg](https://foruda.gitee.com/images/1705471661226703002/01ebe004_1002526.jpeg)
 
 Ps：
 
@@ -112,16 +112,16 @@ github_username: wenbsu
 
 如果需要添加或者修改可以到_includes/sns_links.html 进行添加修改
 不需要显示的话直接注释掉。效果图如下
-![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-5.jpeg)
+![/blog/20240112/0-5.jpeg](https://foruda.gitee.com/images/1705471740665256112/1b5f99a8_1002526.jpeg)
 
 #### _config-侧边栏
 ```yaml
-# Sidebar settings
-sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "The Pursuit of Happiness <br> Email:wenbsu@gmail.com  <br> Wechat:wenbxu"
-sidebar-avatar: /img/wenbsu.png # use absolute URL, seeing it's used in both `/` and `/about/`
+  # Sidebar settings
+  sidebar: true # whether or not using Sidebar.
+  sidebar-about-description: "The Pursuit of Happiness <br> Email:wenbsu@gmail.com  <br> Wechat:wenbxu"
+  sidebar-avatar: /img/wenbsu.png # use absolute URL, seeing it's used in both `/` and `/about/`
 ```
-![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-6.jpeg)
+![/blog/20240112/0-6.jpeg](https://foruda.gitee.com/images/1705471795159828635/fb85c8e8_1002526.jpeg)
 
 
 #### _config-好友
@@ -134,7 +134,7 @@ friends:
     { title: "blog", href: "http://wenbsu.github.io" }
   ]
 ```
-![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-7.jpeg)
+![/blog/20240112/0-7.jpeg](https://foruda.gitee.com/images/1705471827594316592/0d4f74b1_1002526.jpeg)
 
 #### img-图片配置
 
@@ -147,7 +147,7 @@ friends:
 
 #### _posts-md文件设置（划重点！！！）
 效果展示：
-![](https://wenbsu.obs.cn-south-1.myhuaweicloud.com/blog/20240112/0-8.jpeg)
+![/blog/20240112/0-8.jpeg](https://foruda.gitee.com/images/1705471861298923656/669917fb_1002526.jpeg)
 
 _post可以说的上是整个博客最重要的部分了，应为文章都统一存放在这个页面。需要注意点如下：
 
