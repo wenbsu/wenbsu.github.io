@@ -6,7 +6,7 @@ subtitle: git针对仓库的一些操作
 date: 2024-01-17
 author: wenbsu
 header-style: text
-#catalog: true
+catalog: true
 tags:
 - Git
 ---
@@ -30,7 +30,7 @@ ssh-keygen -t rsa -f ~/.ssh/id_rsa.github -C "xxx@qq.com"
 ### Gitee 的钥匙
 邮箱换一个。不要跟上面相同就行  
 ```
-ssh-keygen -t rsa -f ~/.ssh/id_rsa.github -C "xxx@vip.qq.com"
+ssh-keygen -t rsa -f ~/.ssh/id_rsa.gitee -C "xxx@vip.qq.com"
 ```
 疯狂回车即可  
 完成后会在~/.ssh / 目录下生成以下文件：  
