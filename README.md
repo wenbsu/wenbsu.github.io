@@ -35,7 +35,7 @@ gem update jekyll # 更新jekyll
 gem update github-pages #更新依赖的包
 ```
 
-- 在浏览器中访问 [http://localhost:4000](http://localhost:4000/) 就可以看到你的 Jekyll 网站了，你对本地博客的修改都会在这个地址进行显示，修改配置后网址要`强制刷新`才会展示
+- 在浏览器中访问 [http://localhost:4000](http://localhost:4000/) 就可以看到你的 Jekyll 网站了，你对本地博客的修改都会在这个地址进行显示，修改配置后网址要`强制刷新`才会展示。如果想修改IP访问，启动命令指定本机IP：bundle exec jekyll serve -w --host=[本机IP]
 
 ## 更多
 
