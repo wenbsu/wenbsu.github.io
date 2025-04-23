@@ -6,7 +6,7 @@ header-img: https://foruda.gitee.com/images/1705471154764684118/cca72dab_1002526
 email: wenbsu@gmail.com
 description: "The future belongs to those who believe in the beauty of their dreams."
 keyword: "wenbsu, Wenbsu Blog, 文水水的博客, github, gitee, Wenbsu"
-url: "http://wenbsu.top"          # your host, for absolute URL
+url: "http://wenbsu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wenbsu/wenbsu.github.io.git" # you code repository
 
@@ -104,5 +104,5 @@ friends:
     { title: "github", href: "https://github.com/wenbsu" },
     { title: "gitee", href: "https://gitee.com/wenbsu" },
     { title: "csdn", href: "https://blog.csdn.net/wenbsu" },
-    { title: "blog", href: "http://wenbsu.top" }
+    { title: "blog", href: "http://wenbsu.github.io" }
   ]
